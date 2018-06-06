@@ -1,0 +1,15 @@
+{
+  "name": "dummy-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:darcien/dummy-server.git",
+  "author": "Yosua Ian Sebastian <yosua.ian.sebastian@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
